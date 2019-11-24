@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "266355878816",
+    "firebase_url": "https://healthtracker-fe7cb.firebaseio.com",
+    "project_id": "healthtracker-fe7cb",
+    "storage_bucket": "healthtracker-fe7cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266355878816:android:14b91f98f3bea16be152c5",
+        "android_client_info": {
+          "package_name": "com.example.health_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266355878816-gn6it1jmc3im2bnk9n7npbuoq2ptclrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.health_tracker",
+            "certificate_hash": "7e3e8ef53ae5eba6b28a6eff3d3a3a05493f2392"
+          }
+        },
+        {
+          "client_id": "266355878816-s31f396mt02io2lo81t48jj3kd1ec6oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx68DgRuIHUy8zaf8U1Mf-znzwJMAnljY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266355878816-s31f396mt02io2lo81t48jj3kd1ec6oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
